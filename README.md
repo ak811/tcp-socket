@@ -10,7 +10,7 @@ This project implements Transmission Control Protocol (TCP) as one of the main p
 <br>
 
 ## Getting Started
-#### 1. Fork TCP-Socekt and clone the repository:
+#### 1. Fork TCP-Socket and clone the repository:
   ```
   * git clone git://github.com/ak811/jaga.git
   ```
@@ -23,7 +23,7 @@ This project implements Transmission Control Protocol (TCP) as one of the main p
   ~~~
 #### 3. You're ready to go!
   ```
-  * The documentations will be provided soon.
+  * The documentation will be provided soon.
   ```
 <!-- View Documentation -->
  
