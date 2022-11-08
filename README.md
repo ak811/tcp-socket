@@ -12,7 +12,7 @@ This project implements Transmission Control Protocol (TCP) as one of the main p
 ## Getting Started
 #### 1. Fork TCP-Socket and clone the repository:
   ```
-  * git clone git://github.com/ak811/jaga.git
+  * git clone git://github.com/ak811/tcp-socket.git
   ```
 #### 2. Import the project via any Python IDEs and import the following libraries:
   ~~~python
