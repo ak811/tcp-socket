@@ -1,11 +1,11 @@
 # TCP-Socket
 
-### The implementation of Transmission Control Protocol (TCP)
+### TCP-based messenger by Socket Programming
 
 <br>
 
 ## Overview
-This project implements Transmission Control Protocol (TCP) as one of the main protocols of the Internet Protocol Suite by using Socket Programming in Python. You can use this project to send and receive messages through TCP connections between the client and server.
+This project uses Transmission Control Protocol (TCP) as one of the main protocols of the Internet Protocol Suite to send and receive messages through TCP connections between the client and server by using Socket Programming.
 
 <br>
 
