@@ -5,7 +5,7 @@
 <br>
 
 ## Overview
-This project uses Transmission Control Protocol (TCP) as one of the main protocols of the Internet Protocol Suite to send and receive messages through TCP connections between the client and server by using Socket Programming.
+This project utilizes the Transmission Control Protocol (TCP) as one of the main protocols of the Internet Protocol Suite to establish a reliable, stream-based connection between the client and server through socket programming, enabling users to send and receive messages in real-time.
 
 <br>
 
